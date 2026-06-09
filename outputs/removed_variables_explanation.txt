@@ -1,0 +1,3 @@
+Removed variables:
+- state: categorical nominal variable with many levels; removed to reduce dimensionality.
+- total_*_charge: highly correlated with corresponding total_*_minutes; removed to reduce redundancy.

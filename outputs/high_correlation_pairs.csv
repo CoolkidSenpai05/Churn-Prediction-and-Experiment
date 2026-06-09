@@ -1,0 +1,5 @@
+variable_1,variable_2,correlation
+total_day_minutes,total_day_charge,0.9999999509831975
+total_eve_minutes,total_eve_charge,0.9999997748632368
+total_night_minutes,total_night_charge,0.999999207186797
+total_intl_minutes,total_intl_charge,0.9999926570208366
